@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleExample": {
+      "commandName": "Project",
+      "commandLineArgs": "--state 1"
+    }
+  }
+}

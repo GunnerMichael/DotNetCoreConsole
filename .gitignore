@@ -1,0 +1,6 @@
+# IDE files
+.vs
+ConsoleExample/bin
+ConsoleExample/obj
+.vscode
+
